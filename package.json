@@ -1,0 +1,21 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "thinder for developers",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon src/app.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "and",
+    "javascript"
+  ],
+  "author": "prajwal dp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "nodemon": "^3.1.7"
+  }
+}
